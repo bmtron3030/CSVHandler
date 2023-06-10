@@ -11,7 +11,7 @@ This class requires that the _pandas_ and  _numpy_ libraries are installed on th
 ### Installation
 
 1. Make sure the latest version of Python is installed on your system
-2. Make sure the required libraries are installed (_pandas_ and  _numpy_)
+2. Download all of the required depndencies (_pandas_ and  _numpy_)
 3. Download the CSVHandler.py file to any local directory
 
 ### Examples
