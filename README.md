@@ -1,6 +1,6 @@
 # CSVHandler
 
-CSVHandler is a Python class that uses the _pandas_ and  _numpy_ libraries to streamline data extrapolation from csv files. Its purpose is to simplify certain tasks like extracting certain columns and rows from any given csv file so that data processing for later use in any program is more straightforward while mainting fast access speeds and low computing complexity. Its core functionaliy focuses on retrieving data in order to minimize the obfuscation of csv data that could lead to errors or corrupted data.
+CSVHandler is a Python class that uses the _pandas_ and  _numpy_ libraries to streamline data extrapolation from csv files. Its purpose is to simplify certain tasks like extracting specific columns and rows from any given csv file so that data processing for later use in any program is more straightforward while mainting fast access speeds and low computing complexity. Its core functionaliy focuses on retrieving data in order to minimize the obfuscation of csv data that could lead to errors or corrupted data.
 
 ### Requirements
 
